@@ -1,2 +1,1 @@
 # njportfolio.github.io
-Portfolio
